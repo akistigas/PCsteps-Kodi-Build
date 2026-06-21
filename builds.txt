@@ -1,9 +1,7 @@
 [PCsteps Build]
 buildname="PCsteps Build"
 version="1.0.0"
-url="https://github.com/To_Oνομα_Μας/Το_Repo_Μας/releases/download/v1.0.0/PCsteps_Build.zip"
-minor="http://"
-gui="http://"
+url="https://github.com/akistigas/PCsteps-Kodi-Build/releases/download/v1.0.0/PCsteps_Build_v1.0.0.zip"
 kodi="21.0"
 theme="http://"
 icon="http://"
