@@ -1,0 +1,10 @@
+[PCsteps Build]
+buildname="PCsteps Build"
+version="1.0.0"
+url="https://github.com/To_Oνομα_Μας/Το_Repo_Μας/releases/download/v1.0.0/PCsteps_Build.zip"
+minor="http://"
+gui="http://"
+kodi="21.0"
+theme="http://"
+icon="http://"
+info="Το επίσημο build του PCsteps. Υποστηρίζει αυτόματο update διατηρώντας τα Trakt & Real Debrid accounts σας ανέπαφα."
