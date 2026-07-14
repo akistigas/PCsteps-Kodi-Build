@@ -1,7 +1,7 @@
 [PCsteps Build]
 buildname="PCsteps Build"
-version="1.0.5"
-url="https://github.com/akistigas/PCsteps-Kodi-Build/releases/download/v1.0.5/PCsteps.Build.v1.0.5.zip"
+version="1.0.6"
+url="https://github.com/akistigas/PCsteps-Kodi-Build/releases/download/v1.0.6/PCsteps.Kodi.Build.v1.0.6.zip"
 minor="http://"
 gui="http://"
 kodi="21.0"
